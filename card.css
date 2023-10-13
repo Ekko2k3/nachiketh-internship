@@ -1,0 +1,31 @@
+img{
+    height: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+.card{
+
+    border: 2px solid black;
+    width: 500px;
+    padding: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    background-color: rgb(16, 85, 24);
+}
+
+h3{
+    text-align: center;
+    color: red; 
+
+}
+
+p{
+    text-align: center;
+}
+
+body{
+    background-image: url("https://www.shutterstock.com/shutterstock/photos/1919537027/display_1500/stock-vector-cartoon-doodles-mexico-seamless-pattern-backdrop-with-mexican-culture-symbols-and-items-colorful-1919537027.jpg");
+    background-size: cover;
+}

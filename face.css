@@ -1,0 +1,51 @@
+body{
+    background-color: #f0f2f5;
+}
+#Card{
+    height: 300px;
+    width: 350px;
+    padding: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #fff ;
+    margin-top: 10px;
+    margin-bottom: auto; 
+    
+}
+h1{
+    font-style:unset;
+    font-size: 20px;
+    margin-top: 1px;
+    margin-bottom: auto;
+    font-weight: 200;
+}
+div{
+    border-radius: 8px;
+    box-shadow: 1px 2px 3px 1px rgb(209, 209, 209);
+}
+input{
+    border-radius: 10px; /* You can adjust the radius value */
+      padding: 8px; /* Add padding for better visual appearance */
+      border: 1px solid #ccc; /* Add a border for clarity */
+      margin-left: 1px;
+      margin-right: 100px;
+      margin-top: 1px;
+      margin-bottom: auto; 
+}
+input::placeholder{
+    font-size: 17px;
+    color: rgba(112, 128, 144, 0.7);
+}
+img{
+    margin-top: 50px;
+    
+}
+button{
+    border-radius: 10px; /* You can adjust the radius value */
+      padding: 8px; /* Add padding for better visual appearance */
+      border: 1px solid #ccc; /* Add a border for clarity */
+    font-size: 20px;
+}
+a{
+    color: rgb(0, 136, 255);
+}
